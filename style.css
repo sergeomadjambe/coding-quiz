@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.instruction-container{
+    background-color: rgb(78, 78, 239);
+    padding: 30px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 250px;
+}
+
+.question-container{
+    display: none;
+    background-color: rgb(78, 78, 239);
+    padding: 30px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 250px;
+}
+
+.score-container{
+    background-color: rgb(78, 78, 239);
+    display: none;
+    padding: 30px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 250px;
+}
+
+
+
+
+
+
+
+
+
